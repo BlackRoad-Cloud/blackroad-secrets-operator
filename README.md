@@ -1,5 +1,13 @@
 # blackroad-secrets-operator
 
+> BlackRoad Cloud Infrastructure: Kubernetes secrets operator with rotation, versioning, and audit logging
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Cloud](https://github.com/BlackRoad-Cloud)
+
+---
+
+# blackroad-secrets-operator
+
 > Kubernetes-style secrets operator with XOR encryption, versioning, rotation scheduling, audit logging, and environment injection. Zero external dependencies.
 
 ## Features
